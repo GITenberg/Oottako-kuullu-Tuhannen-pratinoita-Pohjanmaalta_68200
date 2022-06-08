@@ -1,0 +1,24 @@
+_repo: Oottako-kuullu-Tuhannen-pratinoita-Pohjanmaalta_68200
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ikola, Jaakko O.
+    gutenberg_agent_id: '54650'
+    url: http://www.gutenberg.org/2009/agents/54650
+description: ''
+gutenberg_issued: '2022-05-29'
+identifiers:
+  gutenberg: '68200'
+language: fi
+pgterms:marc905: 20220424074619ikola
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :K. J. Gummerus Oy,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Oottako kuullu: Tuhannen prätinöitä Pohjanmaalta'
+url: http://www.gutenberg.org/ebooks/68200
