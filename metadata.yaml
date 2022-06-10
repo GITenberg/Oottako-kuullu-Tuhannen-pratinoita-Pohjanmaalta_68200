@@ -1,11 +1,16 @@
 _repo: Oottako-kuullu-Tuhannen-pratinoita-Pohjanmaalta_68200
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ikola, Jaakko O.
     gutenberg_agent_id: '54650'
     url: http://www.gutenberg.org/2009/agents/54650
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68200#Oottako-kuullu-Tuhannen-pratinoita-Pohjanmaalta
 gutenberg_issued: '2022-05-29'
 identifiers:
   gutenberg: '68200'
